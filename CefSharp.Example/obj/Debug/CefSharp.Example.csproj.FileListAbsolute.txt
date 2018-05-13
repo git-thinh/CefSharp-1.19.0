@@ -1,0 +1,2 @@
+E:\_cs\cef\CefSharp-1.19.0\CefSharp.Example\obj\Debug\CefSharp.Example.Properties.Resources.resources
+E:\_cs\cef\CefSharp-1.19.0\CefSharp.Example\obj\Debug\CefSharp.Example.csproj.GenerateResource.Cache
